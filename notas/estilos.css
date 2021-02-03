@@ -1,0 +1,35 @@
+/*----------------------------------------------------------------------------Selectores universales Css	
+	Sirven para cambiar un aspecto de manera general
+*/
+
+	/*
+
+*	{
+	color: red;
+}
+
+/*Asignar el color en hexadecimal nos asegura la integridad del color seleccionado*/
+
+/*----------------------------------------------------------------------------Selectores de Tipo
+		Sirven para asignar un estilo determinado a un objeto*(item)
+
+h1(p) {
+	color:red
+	En este caso se selecciona el objeto a modificar(button,h2,h3,input)
+}
+
+*/
+/*----------------------------------------------------------------------------Selectores por clase
+-----------<h2 class="titulo-h2">titulo a modificar con css</h2>
+----Pudiendo asi separar por clase los diversos estilos con los que se
+redactan las distintas notas de diversas secciones------------------
+.titulo-h2{
+	
+}
+*/
+/*Selector por ID
+
+#idelement {
+	size: medium
+}
+*/

@@ -19,6 +19,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
+https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md#built-with
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -33,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/SnowTrash/SnowTrash.github.io.git">
-   ![alt text][Logo] 
+   <img src="https://github.com/SnowTrash/SnowTrash.github.io/tree/InitCgs/img/Logo.png">
   </a>
 
   <h3 align="center">Plantillas de Paginas web</h3>
@@ -57,24 +58,25 @@
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el proyecto</a>
+      <a href="#sobre-el-proyecto">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Construido con</a></li>
+        <li><a href="#construido-en">Construido en</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#markdown">Markdown</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#markdown-general">Markdown General</a></li>
+        <li><a href="#periodico">Periodico</a></li>
+        <li><a href="#autor">A.A. Autor</a></li>
+        <li><a href="#svblog">Silla Vacia Blog</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#lista-de-paginas">Lista de Paginas</a></li>
+    <li><a href="#contribuir">Contribuir</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#github">Perfil de Github</a></li>
   </ol>
 </details>
 
@@ -92,56 +94,35 @@ Here's a blank template to get started:
 
 ### Construido En
 
-* []()
-* []()
-* []()
+* []() HTML
+* []() CSS
+* []() JavaScript
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Markdown
 
-To get a local copy up and running follow these simple steps.
+Se explica que es Markdown y como utilizarlo
 
-### Prerequisites
+### Markdown General
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Aqui se encuentran ejemplos de comandos y vistas de diversos markdowns utilizados de forma general
 
-### Installation
+## Periodico
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+## A.A. Autor
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+## SVBlog
 
 <!-- ROADMAP -->
-## Roadmap
+## Lista de Paginas
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
+Aqui se encontraran imagenes con links a las paginas web
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuir
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -152,25 +133,21 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
+<!-- LICENSE -->
+## Licencia
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Github
 
 * []()
 * []()
@@ -182,7 +159,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Logo]: https://github.com/SnowTrash/SnowTrash.github.io/tree/main/img/Logo.png
+[logo]: https://github.com/SnowTrash/SnowTrash.github.io/tree/main/img/Logo.png
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/SnowTrash
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
