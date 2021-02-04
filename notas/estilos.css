@@ -9,7 +9,7 @@
 }
 
 /*Asignar el color en hexadecimal nos asegura la integridad del color seleccionado*/
-
+m
 /*----------------------------------------------------------------------------Selectores de Tipo
 		Sirven para asignar un estilo determinado a un objeto*(item)
 
@@ -32,4 +32,114 @@ redactan las distintas notas de diversas secciones------------------
 #idelement {
 	size: medium
 }
+*/
+
+/*al seleccionar por atributo se hace algo parecido a una clase
+
+<h2 atributo = "1">H2 en rojo asies</h2>
+[atributo = "1"]{
+	color:red
+}
+*/
+
+/*
+Descendiente
+h2 p {
+	
+	color:red
+}
+De esta manera se seleccionan por contenedores lo que representa 
+una modificacion en
+<h2><p>Esta madre en rojo</p></h2>
+<p>Esto es color negro</p>
+
+tambien puede darse la modificacion de tipo descendiente
+cuando se selecciona la clase del contenedor y el atributo del
+elemento contenido
+
+.rojon b {
+	color:red
+}
+<h2><p>Esta madre en negro</p></h2>
+<p>Esto es color negro</p>
+<h2 class="rojon" ><b>Esta madre en rojo</b></h2>
+<p>Esto es color negro</p>
+*/
+/*
+Por pseudo Clase 
+b:hover {
+	color:red
+}
+<p>Esto es color negro</p>
+<h2><b>Me pongo rojo si me pasas el mouse</b></h2>
+<p>Esto es color negro</p>
+*/
+
+/* Jerarquia de especificidad
+
+	!important--------- xy--color:grey !important
+	estilos de linea-----------<style="color:green"> </>
+	identificadores----#ID
+	---------------------------------------
+	clases------ class=""
+	pseudo-clases ----- b:hover{}
+	atributos ------ rojon = "si" [rojon="si"]{}
+	---------------------------------------
+	elementos ------ <h1></h1>
+	pseudo elementos
+
+--------En el caso de encontrar un conflicto del mismo nivel de jerarquia
+	se resuelve "por cascada" el ultimo atributo es el que se toma
+*/
+/*
+			METODOLOGIA BEM
+	<body>
+<div class="contact-form">
+	<input type= "text" class"contact-form__input">
+	<input type= "text" class"contact-form__input">
+	<input type= "text" class"contact-form__input">
+	<input type= "text" class"contact-form__input--active">
+	<input type= "text" class"contact-form__input">
+	<input type= "password" class"contact-form__input">
+	<h2>Texto modificado por em</h2>
+</div>
+</body>
+
+.contact-form__input--active {
+	color:red
+}
+
+*/
+/* Existen unidades de medida :
+
+	-->Fijas(pixeles,mm,cm)
+
+	-->Relativas(dependientes, variables)
+
+Para hacer modificaciones al texto se selecciona 
+	.contact-form__h2 {
+			font-size:3
+			aqui se puden agregar medidas fijas
+		5cm , 14px , 120mm , 70pt}
+
+		Para hacerlo de manera relativa (REM o_EM_)
+	.contact-form__h2 {font:size 1em}
+		//por defecto 1em = 16pixeles
+		//	pero puedes cambiar ese valor si se agrega
+		// con anterioridad el mismo atributo 
+	.contact-form{
+	font-size:25px;}
+
+	.contact-form__h2{
+	font:size 1em;} 
+	al hacer el cambio en la caja contenedor, se da como 
+	parametro em 25px
+	Esta propiedad tambien funciona para:	
+		~padding
+		~margin
+		~bottom
+		~left
+	y cualquier propiedad que trabaje con unidades de medida---------
+
+	
 */

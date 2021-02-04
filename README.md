@@ -41,7 +41,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md#
   <p align="center">
     Repositorio con ejemplos de Paginas Web
     <br />
-    <a href="https://github.com/SnowTrash/SnowTrash.github.io/tree/main/docs"><strong>Conoce las paginas »</strong></a>
+    <a href="https://github.com/SnowTrash/SnowTrash.github.io.git"><strong>Conoce las paginas »</strong></a>
     <br />
     <br />
     <a href="https://github.com/SnowTrash/SnowTrash.github.io/issues">Reporta Un Bug</a>
