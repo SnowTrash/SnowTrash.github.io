@@ -9,7 +9,6 @@
 }
 
 /*Asignar el color en hexadecimal nos asegura la integridad del color seleccionado*/
-m
 /*----------------------------------------------------------------------------Selectores de Tipo
 		Sirven para asignar un estilo determinado a un objeto*(item)
 
@@ -139,7 +138,15 @@ Para hacer modificaciones al texto se selecciona
 		~margin
 		~bottom
 		~left
-	y cualquier propiedad que trabaje con unidades de medida---------
-
-	
+	y cualquier propiedad que trabaje con unidades de medida---------	
 */
+/* ---------------------MI PRIMER CSS----------------------
+Asies aqui empieza la modificacion
+NO MAMES EL PINCHE w3schools
+https://www.w3schools.com/css/css3_images.asp
+*/
+[estadistica="si"] {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

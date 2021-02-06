@@ -92,9 +92,9 @@ mostrar los tipos de trabajo que se pueden realizar.
 
 ### Construido En
 
-* []() HTML
-* []() CSS
-* []() JavaScript
+* [HTML](https://www.w3schools.com/html/default.asp) 
+* [CSS](https://www.w3schools.com/css/default.asp) 
+* [JavaScript](https://www.w3schools.com/js/default.asp) 
 
 
 <!-- GETTING STARTED -->
