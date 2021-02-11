@@ -1,11 +1,83 @@
 
-.div-responsive{
-	background: #e55;
+
+.home-bar {
+	width: auto;
+	display:flex;
+	align-items: stretch;
+	text-align: center;
 }
 
+.home-bar__item{
+	background: #aaa;
+	display: inline-block;
+	padding:40px;
+	font-family: "Cinzel","sans-serif"; 
+	border: #000 3px solid;
+}
+
+.home-bar__item::hover {
+	animation-name: gota;
+	animation-fill-mode: backwards;
+	animation-duration: 2s;
+}
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.article-container {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.article__item {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: solid #000 2px; 
+  background: #888;
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
 
 @media screen and (min-width: 350px) and (max-width:750px) {
-	.div-responsive {
+	.home-bar {
 		background: #088;
 	}
+}
+
+@keyframes gota {
+		   0%{
+		   		border-radius: 5px;
+		   		background: #777;
+		   }
+
+		   100%{
+		   		background: #eee;
+		   }
 }

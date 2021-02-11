@@ -21,6 +21,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md#built-with
 -->
+
+https://www.markdownguide.org/basic-syntax/#reference-style-links
+https://github.com/SnowTrash/SnowTrash.github.io/tree/InitCgs#sobre-el-proyecto
+https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/README.md
+https://github.com/othneildrew/Best-README-Template/blob/master/README.md
+
 [![Colaboradores][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
@@ -45,7 +51,6 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md#
     <br />
     <br />
     <a href="https://github.com/SnowTrash/SnowTrash.github.io/issues">Reporta Un Bug</a>
-    ·
     <a href="https://github.com/SnowTrash/SnowTrash.github.io/issues">Sugiere una Mejora</a>
   </p>
 </p>
