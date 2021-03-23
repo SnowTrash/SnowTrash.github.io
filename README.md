@@ -3,14 +3,7 @@
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -19,173 +12,145 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
-https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md#built-with
 -->
 
-https://www.markdownguide.org/basic-syntax/#reference-style-links
-https://github.com/SnowTrash/SnowTrash.github.io/tree/InitCgs#sobre-el-proyecto
-https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/README.md
-https://github.com/othneildrew/Best-README-Template/blob/master/README.md
-
-[![Colaboradores][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Facebook][Facebook-shield]][Facebook-url]
-
-
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SnowTrash/SnowTrash.github.io.git">
-   <img src="https://github.com/SnowTrash/SnowTrash.github.io/tree/InitCgs/img/Logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SnowTrash/SnowTrash.github.io/img/iconoP.svg">
+    <img src="https://github.com/SnowTrash/SnowTrash.github.io/img/Logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Plantillas de Paginas web</h3>
+  <h3 align="center">Snow Trash</h3>
 
   <p align="center">
-    Repositorio con ejemplos de Paginas Web
+    Proyecto de Creación de Páginas web , blog y publicación de articulos varios
     <br />
-    <a href="https://github.com/SnowTrash/SnowTrash.github.io.git"><strong>Conoce las paginas »</strong></a>
+    <a href="https://github.com/SnowTrash/SnowTrash.github.io"><strong>Explora los documentos»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SnowTrash/SnowTrash.github.io/issues">Reporta Un Bug</a>
-    <a href="https://github.com/SnowTrash/SnowTrash.github.io/issues">Sugiere una Mejora</a>
+    <a href="https://github.com/SnowTrash/SnowTrash.github.io/issues">Reporta un Issue</a>
+    <a href="https://github.com/SnowTrash/SnowTrash.github.io/branches/active">Añade un Feature</a>
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
+  <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
-      <a href="#sobre-el-proyecto">Sobre el proyecto</a>
+      <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#construido-en">Construido en</a></li>
+        <li><a href="#construido-con">Construido Con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#markdown">Markdown</a>
-      <ul>
-        <li><a href="#markdown-general">Markdown General</a></li>
-        <li><a href="#periodico">Periodico</a></li>
-        <li><a href="#autor">A.A. Autor</a></li>
-        <li><a href="#svblog">Silla Vacia Blog</a></li>
-      </ul>
+      <a href="#como-empezar">¿Como empezar?</a>
     </li>
-    <li><a href="#lista-de-paginas">Lista de Paginas</a></li>
+    <li><a href="#avances">Avances</a></li>
     <li><a href="#contribuir">Contribuir</a></li>
-    <li><a href="#contacto">Contacto</a></li>
     <li><a href="#licencia">Licencia</a></li>
-    <li><a href="#github">Perfil de Github</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#referencias-y-recursos">Referencias y Recursos</a></li>
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
-## Sobre el proyecto
+## Sobre el Proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://snowtrash.github.io/)
+![Imagen Para el Proyecto][product-screenshot]
 
-El proyecto es un portafolio de paginas web de distintos tipos, con las que se generará 
-una gran cantidad de plantillas de diversos tipos, con variantes en los diseños para
-mostrar los tipos de trabajo que se pueden realizar.
+Este proyecto es un portafolio de proyectos colaborativo para mostrar las _skills_ con las que cuento en lo que a diseño de paginas web y herramientas relacionado a ello se refiere.
+Además las notas y artículos que se encuentran en el repositorio servirán cómo 
 
-### Construido En
+¿Para qué?
+* 
 
-* [HTML](https://www.w3schools.com/html/default.asp) 
-* [CSS](https://www.w3schools.com/css/default.asp) 
-* [JavaScript](https://www.w3schools.com/js/default.asp) 
+### Construido con
 
+* [HTML](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [Javascript](https://www.w3schools.com/js/default.asp)
 
 <!-- GETTING STARTED -->
-## Markdown
+## Como empezar
+Para realizar una pagina web, solo necesitas tu editor favorito de texto y un navegador
+El proyecto ha sido enteramente trabajado sobre las herramientas Visual Studio Code, Sublime Text y el Navegador Opera.
 
-Se explica que es Markdown y como utilizarlo
+Si deseas enviarnos una nota para su publicación, puedes realizarla en html directamente o en un editor de texto común , cuidando enviar los links de referencia de información y de las imagenes o gráficas que se utilizan en tu articulo o nota.
 
-### Markdown General
-
-Aqui se encuentran ejemplos de comandos y vistas de diversos markdowns utilizados de forma general
-
-## Periodico
-
-## A.A. Autor
-
-## SVBlog
+Envialo a : juan.vargas2962@alumnos.udg.mx
 
 <!-- ROADMAP -->
-## Lista de Paginas
+## Avances
 
-Aqui se encontraran imagenes con links a las paginas web
-Tengo que diseñar los vectores y logos :cc
+Puedes ver los [Issues Abiertos](https://github.com/SnowTrash/SnowTrash.github.io/issues?q=is%3Aopen) para los cambios que se estan haciendo y también visualizar los problemas resueltos y cambios pasados
 
 <!-- CONTRIBUTING -->
 ## Contribuir
 
-Las contribuciones son lo que hace a las comunidades de codigo abierto tan asombrosas como lo son, un lugar increible para aprender,inspirarse y crear.
-Cualquier contribución que hagas será **muy apreciada**.
+Las contribuciones y el espiritu de comunidad es lo que mantiene a este proyecto vivo , por lo que todas las contribuciones que se quiean realizar son  **altamente apreciadas**.
+<br>
 
-1. Fork the Project
-2. Crea tu propio Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit los cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push the Branch (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- CONTACT -->
-## Contacto
-
-Lizard Tounge - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-La revista negra: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-La Revista Negra Facebook [revista-logo][revista-url]
+1. (_fork the proyect_) Para contribuir debes [Bifurcar un repositorio](https://docs.github.com/es/github/getting-started-with-github/fork-a-repo) así no afectarás el proyecto original 
+2. (_Create your Feature Branch_) [Crea un rama](https://docs.github.com/es/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) en tu proyecto para la contribución que deseas realizar (`git checkout -b feature/AmazingFeature`)
+3. (_Commit your Changes_) [Comenta tus cambios](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio) (`git commit -m 'Add some AmazingFeature'`)
+4. (_Push to the Branch_) Guarda tus avances en la contribución (`git push origin feature/AmazingFeature`)
+5. (_Open a Pull Request_) [Crear la solicitud de cambios](https://docs.github.com/es/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 <!-- LICENSE -->
 ## Licencia
 
-Distributed under the GNU GPL License. See `LICENSE` for more information.
+Distribuido Bajo la Licencia GPLv3 . Visita el apartado de `LICENSE` para más información.
 
-Distribuido bajo la licencia GNU GPL. Ver `LICENSE` para mas informacion.
+<!-- CONTACT -->
+## Contacto
+
+[SnowTrash](https://github.com/SnowTrash)
+
+Link del proyecto: [Portafolio de Proyectos](https://github.com/SnowTrash/SnowTrash.github.io)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Github
+## Referencias y Recursos
+### Para Construir el Readme: 
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Sticky Kit](http://leafo.net/sticky-kit)
+* [JVectorMap](http://jvectormap.com)
+* [Font Awesome](https://fontawesome.com)
 
-* [Sintaxis  ](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
-* [         y](https://docs.github.com/es/rest/reference/markdown)
-* [           Escritura en Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+### Para construir las paginas
+* [Soy Dalto - HTML5](https://www.youtube.com/watch?v=kN1XP-Bef7w)
+* [Soy Dalto - CSS](https://www.youtube.com/watch?v=OWKXEJN67FE)
+* 
+### Para el estilo 
+* [El hijo del Ahuizote](https://memoricamexico.gob.mx/es/memorica/Temas?cId=9)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[revista-url]:
-[logo]: https://github.com/SnowTrash/SnowTrash.github.io/tree/main/img/Logo.png
-[products-screenshot]: https://github.com/SnowTrash/SnowTrash.github.io/tree/main/img/Proyct.png 
-[revista-logo]: https://github.com/SnowTrash/SnowTrash.github.io/tree/main/img/Proyct.png 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/SnowTrash/SnowTrash.github.io.svg?style=for-the-badge
 [contributors-url]: https://github.com/SnowTrash/SnowTrash.github.io/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/SnowTrash/SnowTrash.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/SnowTrash/SnowTrash.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/SnowTrash/SnowTrash.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/SnowTrash/SnowTrash.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SnowTrash/SnowTrash.github.io.svg?style=for-the-badge
 [issues-url]: https://github.com/SnowTrash/SnowTrash.github.io/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/SnowTrash/SnowTrash.github.io/tree/main/License.txt
-[Facebook-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[Facebook-url]: https://www.facebook.com/Lα-Rεvistα-Nεgrα-101019878198207
+[license-shield]: https://img.shields.io/github/license/SnowTrash/SnowTrash.github.io.svg?style=for-the-badge
+[license-url]: https://github.com/SnowTrash/SnowTrash.github.io/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/juanvargasudg
+[product-screenshot]: https://i.pinimg.com/originals/e8/46/21/e84621e1555e152f8219a3ec93f3dead.jpg
